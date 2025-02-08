@@ -13,3 +13,4 @@ Docker stop 'Container ID'
 
 Docker rm 'Container ID'
 Docker rmi 'Container ID'
+Docker system prune
